@@ -1,0 +1,150 @@
+
+header{
+    padding: 0;
+}
+
+
+
+header .headerDiv {
+    padding-top: 200px;
+    background-color: black;
+}
+
+header .navbar-brand img {
+    width: 50px;
+}
+
+header .navbar-brand p {
+    font-size: 15px;
+}
+
+.sec1{
+    background-image: url(../img/img-sample8.jpg);
+    width: 100%;
+    height: 1000px;
+    color: white;
+    padding-top: 5%;
+}
+
+.sec1-dv1{
+    margin-left: -250px;
+}
+.sec2-dv1{
+    margin-left: -250px;
+}
+.sec3-dv1{
+    margin-left: -250px;
+}
+.sec1 .sec1-dv1 a button{
+    border-radius: 60px;
+   width: 60px;
+   height: 60px;
+    margin: 20px;
+    border: none;
+    color: cornflowerblue;
+    font-size: 25px;
+    transition: 0.5s;
+
+}
+
+.sec1 .sec1-mecDiv1 a button:hover{
+    background-color:cornflowerblue;
+    color: white;
+}
+
+
+
+ .sec1 .sec1-mecDiv1 .sec1-mecDiv2 .sec1-dv1 h3{
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+}
+
+
+
+
+.sec2{
+    background-image: url(../img/img-sample5.jpg);
+    width: 100%;
+    height: 1000px;
+    color: white;
+    padding-top: 5%;
+}
+
+.sec2 .sec2-dv1 a button{
+    border-radius: 60px;
+   width: 60px;
+   height: 60px;
+    margin: 20px;
+    border: none;
+    color: cornflowerblue;
+    font-size: 25px;
+    transition: 0.5s;
+}
+
+.sec2 .sec2-dv1 a button:hover{
+    background-color:cornflowerblue;
+    color: white;
+}
+
+
+
+
+ .sec2 .sec2-mecDiv1 .sec2-mecDiv2 .sec2-dv1 h3{
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+}
+
+
+
+.sec3{
+    background-image: url(../img/img-sample3.jpg);
+    width: 100%;
+    height: 1000px;
+    color: white;
+    padding-top: 5%;
+}
+
+.sec3 .sec3-dv1 a button{
+    border-radius: 60px;
+   width: 60px;
+   height: 60px;
+    margin: 20px;
+    border: none;
+    color: cornflowerblue;
+    font-size: 25px;
+    transition: 0.5s;
+    
+}
+.sec3 .sec3-dv1 a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.sec3 .sec3-dv1 a button:hover{
+    background-color:cornflowerblue;
+    color: white;
+}
+
+header .buttLi a button{
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
+ .sec3 .sec3-mecDiv1 .sec3-mecDiv2 .sec3-dv1 h3{
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+}
+
+.sec2 .sec2-dv1 a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.sec1 .sec1-dv1 a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
